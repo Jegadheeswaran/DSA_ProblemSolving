@@ -2,4 +2,5 @@ Here I will upload solution for DSA problems which i solve
 
 # Leetcode
 
-1. Two sum - [Link text](https://leetcode.com/problems/two-sum/description/ 'Problem link')
+1. Two sum - [Problem link](https://leetcode.com/problems/two-sum/description/)
+242. Valid anagram - [Problem link](https://leetcode.com/problems/valid-anagram/)
