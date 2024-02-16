@@ -1,9 +1,15 @@
-Here I will upload solution for DSA problems which i solve 
+Here I will upload solution for DSA problems which i solve
 
 # Leetcode
 
 1. Two sum - [Problem link](https://leetcode.com/problems/two-sum/description/)
-242. Valid anagram - [Problem link](https://leetcode.com/problems/valid-anagram/)
-217. Contains Duplicate - [Problem link](https://leetcode.com/problems/contains-duplicate/)
-49. Group Anagram - [Problem link](https://leetcode.com/problems/group-anagrams/)
-238. Product of Array Except Self [Problem link] (https://leetcode.com/problems/product-of-array-except-self/)
+2. Valid anagram - [Problem link](https://leetcode.com/problems/valid-anagram/)
+3. Contains Duplicate - [Problem link](https://leetcode.com/problems/contains-duplicate/)
+4. Group Anagram - [Problem link](https://leetcode.com/problems/group-anagrams/)
+5. Product of Array Except Self - [Problem link](https://leetcode.com/problems/group-anagrams/)
+6. Valid Sudoku - [Problem link](https://leetcode.com/problems/valid-sudoku/description/)
+7. Longest Consecutive Sequence - [Problem link](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+
+# Neetcode
+
+String Encode and Decode - [Problem link](https://neetcode.io/problems/string-encode-and-decode)
