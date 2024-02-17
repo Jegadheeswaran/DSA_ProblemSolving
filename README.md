@@ -9,6 +9,8 @@ Here I will upload solution for DSA problems which i solve
 5. Product of Array Except Self - [Problem link](https://leetcode.com/problems/group-anagrams/)
 6. Valid Sudoku - [Problem link](https://leetcode.com/problems/valid-sudoku/description/)
 7. Longest Consecutive Sequence - [Problem link](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+8. Find Words That Can Be Formed by Characters - [Problem link](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+9. Valid Palindrome - [Problem link](https://leetcode.com/problems/valid-palindrome/description/)
 
 # Neetcode
 
