@@ -14,6 +14,7 @@ Here I will upload solution for DSA problems which i solve
 10. Two Sum II - Input Array Is Sorted [Problem link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 11. 3Sum - [Problem link](https://leetcode.com/problems/3sum/description/)
 12. Container With Most Water - [Problem link](https://leetcode.com/problems/container-with-most-water/description/)
+13. Trapping Rain Water - [Problem link](https://leetcode.com/problems/trapping-rain-water/description/)
 
 # Neetcode
 
