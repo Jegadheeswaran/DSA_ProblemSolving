@@ -15,6 +15,10 @@ Here I will upload solution for DSA problems which i solve
 11. 3Sum - [Problem link](https://leetcode.com/problems/3sum/description/)
 12. Container With Most Water - [Problem link](https://leetcode.com/problems/container-with-most-water/description/)
 13. Trapping Rain Water - [Problem link](https://leetcode.com/problems/trapping-rain-water/description/)
+14. Valid Parentheses - [Problem link](https://leetcode.com/problems/valid-parentheses/description/)
+15. Min Stack - [Problem link](https://leetcode.com/problems/min-stack/description/)
+16. Evaluate Reverse Polish Notation - [Problem link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+17. Generate Parentheses - [Problem link](https://leetcode.com/problems/generate-parentheses/description/)
 
 # Neetcode
 
