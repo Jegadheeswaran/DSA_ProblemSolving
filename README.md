@@ -19,6 +19,10 @@ Here I will upload solution for DSA problems which i solve
 15. Min Stack - [Problem link](https://leetcode.com/problems/min-stack/description/)
 16. Evaluate Reverse Polish Notation - [Problem link](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 17. Generate Parentheses - [Problem link](https://leetcode.com/problems/generate-parentheses/description/)
+18. Daily temperature - [Problem link](https://leetcode.com/problems/daily-temperatures/description/)
+19. Car fleet - [Problem link](https://leetcode.com/problems/car-fleet/description/)
+20. Check if Array is Good - [Problem link](https://leetcode.com/problems/check-if-array-is-good/description/)
+21. Largest Rectangle in Histogram - [Problem link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 # Neetcode
 

@@ -25,24 +25,27 @@ class Solution {
  */
 
 /**
- * Optimal solution : 
+ * Optimal solution :
  * 
  * Iterate through the input array nums.
- * For each element nums[i], check if its complement (target - nums[i]) exists in the HashMap.
- * If found, return the indices {i, hmap.get(nums[i])} representing the two numbers that sum up to the target. Otherwise, store the complement along with its index in the HashMap.
+ * For each element nums[i], check if its complement (target - nums[i]) exists
+ * in the HashMap.
+ * If found, return the indices {i, hmap.get(nums[i])} representing the two
+ * numbers that sum up to the target. Otherwise, store the complement along with
+ * its index in the HashMap.
  * Return an empty array if no such pair is found.
  */
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        //Create a Hashmap to store the value : index pair
-        HashMap<Integer,Integer> hmap = new HashMap<Integer,Integer>();
-        for(int i=0;i<nums.length;i++){
-            if(hmap.containsKey(nums[i])){
-                return new int [] {i, hmap.get(nums[i])};
+        // Create a Hashmap to store the value : index pair
+        HashMap<Integer, Integer> hmap = new HashMap<Integer, Integer>();
+        for (int i = 0; i < nums.length; i++) {
+            if (hmap.containsKey(nums[i])) {
+                return new int[] { i, hmap.get(nums[i]) };
             }
-            hmap.put(target-nums[i],i);
+            hmap.put(target - nums[i], i);
         }
-        return new int [] {};
+        return new int[] {};
     }
 }
