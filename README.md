@@ -22,6 +22,7 @@ Here I will upload solution for DSA problems which i solve
 18. Daily temperature - [Problem link](https://leetcode.com/problems/daily-temperatures/description/)
 19. Car fleet - [Problem link](https://leetcode.com/problems/car-fleet/description/)
 20. Check if Array is Good - [Problem link](https://leetcode.com/problems/check-if-array-is-good/description/)
+21. Largest Rectangle in Histogram - [Problem link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
 # Neetcode
 
