@@ -23,6 +23,9 @@ Here I will upload solution for DSA problems which i solve
 19. Car fleet - [Problem link](https://leetcode.com/problems/car-fleet/description/)
 20. Check if Array is Good - [Problem link](https://leetcode.com/problems/check-if-array-is-good/description/)
 21. Largest Rectangle in Histogram - [Problem link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+22. Best Time to Buy and Sell Stock - [Problem link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+23. Longest Substring Without Repeating Characters - [Problem link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+24. Longest Repeating Character Replacement - [Problem link](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 
 # Neetcode
 
