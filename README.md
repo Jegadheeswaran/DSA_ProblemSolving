@@ -26,6 +26,9 @@ Here I will upload solution for DSA problems which i solve
 22. Best Time to Buy and Sell Stock - [Problem link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 23. Longest Substring Without Repeating Characters - [Problem link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 24. Longest Repeating Character Replacement - [Problem link](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+25. Minimum Window Substring - [Problem link](https://leetcode.com/problems/minimum-window-substring/description/)
+26. Find the K-Beauty of a Number -[Problem link](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
+27. Maximum Average Subarray -[Problem link](https://leetcode.com/problems/maximum-average-subarray-i/description/)
 
 # Neetcode
 
