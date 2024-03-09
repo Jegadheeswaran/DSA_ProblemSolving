@@ -29,6 +29,8 @@ Here I will upload solution for DSA problems which i solve
 25. Minimum Window Substring - [Problem link](https://leetcode.com/problems/minimum-window-substring/description/)
 26. Find the K-Beauty of a Number -[Problem link](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 27. Maximum Average Subarray -[Problem link](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+28. Permutation in String - [Problem link](https://leetcode.com/problems/permutation-in-string/description/)
+29. Minimum Window Substring -[Problem link](https://leetcode.com/problems/minimum-window-substring/description/)
 
 # Neetcode
 

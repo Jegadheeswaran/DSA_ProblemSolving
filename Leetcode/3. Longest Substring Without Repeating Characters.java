@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 /**
  * Approach 1 :
  * 
